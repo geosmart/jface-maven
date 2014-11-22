@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Nov 20 12:12:32 CST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=bin\\jfaceApp.jar
+manifest.mergeall=true
+manifest.mainclass=jfaceApp.FormMain
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<cl|D\:\\JavaWorkSpace\\uadb_Workspace\\lt.util>
+includes=
