@@ -40,7 +40,7 @@ public class DlgTest extends Dialog
 		
 		Label lblNewLabel = new Label(container, SWT.NONE);
 		lblNewLabel.setBounds(84, 5, 271, 96);
-		lblNewLabel.setText("测试成功");
+		lblNewLabel.setText("测试成功!");
 		
 		return container;
 	}
