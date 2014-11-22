@@ -16,6 +16,11 @@ import org.eclipse.swt.widgets.Control;
 import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;
 
+/**
+ * 测试窗体
+ * 
+ * @author geosmart
+ */
 public class FormMain extends ApplicationWindow
 {
 	
